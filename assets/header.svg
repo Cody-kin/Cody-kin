@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cody | Engineering meets data science</title>
+  <desc id="desc">An original midnight-blue banner with mint and violet circuit traces, a processor and a connected data constellation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#17152e"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#6ee7d4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8171d9" stop-opacity=".23"/><stop offset="1" stop-color="#8171d9" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8293be" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="418" rx="24" fill="url(#bg)" stroke="#30364e" stroke-width="2"/>
+  <rect x="590" y="18" width="590" height="384" rx="20" fill="url(#grid)"/>
+  <ellipse cx="940" cy="210" rx="285" ry="220" fill="url(#glow)"/>
+  <rect x="52" y="54" width="34" height="4" rx="2" fill="#6ee7d4"/>
+  <text x="101" y="64" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#aab5cd">HELLO, WORLD</text>
+  <text x="48" y="206" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="800" letter-spacing="-6" fill="#f1f5fb">CODY<tspan fill="#6ee7d4">.</tspan></text>
+  <text x="55" y="266" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="600" fill="#d2d9ec">Engineering × Data Science</text>
+  <text x="55" y="323" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="1" fill="#8b9ab7">IVE CEE</text>
+  <path d="M190 315h62m-10-7 10 7-10 7" fill="none" stroke="#6ee7d4" stroke-width="2"/>
+  <text x="274" y="323" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="1" fill="#bca9ef">CityU DS</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M665 110h64l25 25h40M650 205h144M680 308h61l34-35h19" stroke="#6ee7d4" stroke-width="3" opacity=".65"/>
+    <path d="M927 145h42l53-54h70M927 210h84l28 28h66M927 272h35l62 63h74" stroke="#aa93f2" stroke-width="3" opacity=".65"/>
+    <path d="M855 105V68h85M855 310v50h-72" stroke="#96aae3" stroke-width="2" opacity=".5"/>
+    <rect x="788" y="122" width="147" height="168" rx="21" fill="#11182d" stroke="url(#accent)" stroke-width="3"/>
+    <rect x="803" y="137" width="117" height="138" rx="12" stroke="#39425f" stroke-width="1.5"/>
+    <path d="m840 181-23 25 23 25m43-50 23 25-23 25m-28 12 14-74" stroke="url(#accent)" stroke-width="4"/>
+    <path d="m1033 99 43 64-42 73 59 72M982 166l94-3 51 68-34 77m-59-72 93-5" stroke="#8d88cc" stroke-width="1.5" opacity=".45"/>
+  </g>
+  <g fill="#6ee7d4"><circle cx="665" cy="110" r="6"/><circle cx="650" cy="205" r="6"/><circle cx="680" cy="308" r="6"/><circle cx="783" cy="360" r="5"/></g>
+  <g fill="#b59af5"><circle cx="1092" cy="91" r="6"/><circle cx="1105" cy="238" r="6"/><circle cx="1098" cy="335" r="6"/><circle cx="940" cy="68" r="5"/><circle cx="1076" cy="163" r="8"/><circle cx="1034" cy="236" r="5"/><circle cx="1127" cy="231" r="5"/><circle cx="1093" cy="308" r="5"/></g>
+  <path d="M55 378h1090" stroke="#323952"/>
+  <path d="M55 378h160" stroke="url(#accent)" stroke-width="3"/>
+</svg>
